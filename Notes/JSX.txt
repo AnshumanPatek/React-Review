@@ -1,0 +1,1 @@
+A JavaScript expression is a combination of values, variables, and operators, which computes to a value. The computation is called an evaluation. For example, 5 * 10 evaluates to 50:
