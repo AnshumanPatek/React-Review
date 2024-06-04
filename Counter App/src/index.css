@@ -1,0 +1,16 @@
+.maindiv {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  margin: 6px;
+  width: 100px;
+  background-color: rgb(99, 74, 238);
+  height: 50px;
+  padding: 5px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
